@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kopach&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/kopach)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kopach&show_icons=true&count_private=true&include_all_commits=true&theme=react" alt="Github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopach&layout=compact&theme=react" alt="Top languages" />
+</span>
 
 
 <!--
